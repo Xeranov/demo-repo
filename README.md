@@ -11,3 +11,7 @@ add more desc
 ## subheader
 
 try it
+
+## Local Development
+
+1. Open index.html in your browser.
